@@ -1,1 +1,1 @@
-"learn data viz" 
+"learn data viz after az-400 exam" 
