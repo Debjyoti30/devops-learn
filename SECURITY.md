@@ -6,7 +6,7 @@ We mostly wortk in the latest version of ADO and all it's features available in 
 
 
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability 
 
 We take security of application code & Repo sanity very seriously so any deviation from the standard pattern must be reported using the below mentioned Hyper text.
 
