@@ -6,7 +6,7 @@ changelog:
     labels:
     - ignore-for-release
     authors:
-    - octocat
+    - Debjyoti
   categories:
     - title: Breaking Changes 🛠
       labels:
